@@ -1,0 +1,53 @@
+/* #2C6893 accent 1 blue
+#A36B0C accent 2 orange
+*/
+
+h1, h2, h3 {
+	color: #2C6893;
+}
+
+h1 {
+	text-align: center;
+}
+
+th, td {
+border: #A36B0C solid 4px;
+padding: 8px;
+}
+
+table {
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a {
+	color: #2C6893;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #A36B0C;
+}
+
+p.block_example{
+background-color: #2C6893;
+color: #FFFFFF;
+width: 400px;
+padding: 13px;
+border: #A36B0C dotted 6px;
+margin: 12px;
+}
+
+div {
+	background-color: #2C6893;
+	width: 646px;
+	padding: 6px;
+	border: #A36B0C double 8px;
+	margin: 8px;
+}
+
+body {
+	padding: 24px;
+}
